@@ -11,5 +11,5 @@ if (NumberToText.Length > 2)
     }
 else
     {
-    Console.WriteLine("Don't find the third number");
+    Console.WriteLine("Don't find the third number!");
     }
